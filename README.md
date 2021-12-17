@@ -3,13 +3,32 @@
 👨‍💻 Scroll down & know more about me!
 
 🎓   Current Masters Student in  'Information Systems' at Northeastern University, Boston.
+
 🧰   Worked as a Senior Data engineer at Infosys Ltd,India .
+
 🎯   Currently exploring Amazon Web Services, Data Engineering, Agile Methodologies & Product.
 
 
-🛠  Technology Enthusi
 
-💻  Python ,SQL, R, Java
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🛠  Technology Stack :
+
+💻  Python ,SQL, R, Java 
 
 🛢  MySQL ,MongoDB
 
