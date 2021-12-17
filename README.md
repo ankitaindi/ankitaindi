@@ -26,12 +26,3 @@
 
 
 
-🛠  Technology Stack :
-
-💻  Python ,SQL, R, Java 
-
-🛢  MySQL ,MongoDB
-
-⚙️  Git ,GitHub
-
-🛢  Amazon AWS
