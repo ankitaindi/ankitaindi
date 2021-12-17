@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 This is Ankita Indi (She/Her)
 
-<!--
-**ankitaindi/ankitaindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Scroll down & know more about me!
 
-Here are some ideas to get you started:
+🎓   Current Masters Student in  'Information Systems' at Northeastern University, Boston.
+🧰   Worked as a Senior Data engineer at Infosys Ltd,India .
+🎯   Currently exploring Amazon Web Services, Data Engineering, Agile Methodologies & Product.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠  Technology Enthusi
+
+💻  Python ,SQL, R, Java
+
+🛢  MySQL ,MongoDB
+
+⚙️  Git ,GitHub
+
+🛢  Amazon AWS
